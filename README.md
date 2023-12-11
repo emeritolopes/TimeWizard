@@ -6,3 +6,13 @@
 # Inspired by a  shared passion for travel
 # User story:  
 # As a user, I want to be able to search for holidays by specifying my desired travel dates, origin, and destination, so that I can easily find and compare flight options for my desired destination, I # # can save time by not having to browse through different airlines and websites manually and I can make an informed decision about the weather in my destination.
+
+
+# Process:
+
+# Made with Bootstrap, jQuery, jQueryUI
+# APIs: OpenWeatherMap and TripAdvisor
+# Project split between UI work, API calls and extra functionality
+# Challenges: time, managing git usage, API limitations
+# Successes: Considering user needs, overcoming initial difficulties
+
